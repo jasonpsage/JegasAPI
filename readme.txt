@@ -17,17 +17,12 @@
                                     Freepascal
 
 ==============================================================================
- Make sure you stop by LiveCoding.TV for the best of all worlds programming!
-
-                 (And frankly if it wasn't fun - I wouldn't go!)
-==============================================================================
-  See the how-to-setup.txt File..... Then... !!  WRITE SOME SOFTWARE  !!
-==============================================================================
-                              See Ya There! =|:^)>
+See the how-to-setup.txt File..... Then... !!  WRITE SOME SOFTWARE  !!
 ==============================================================================
 LEGAL: You can do what you want with my JegasAPI but note that the synapse
 networking API's author would like you to keep his copyright notice in the
-source code if you decide to change and distribute it.
+source code if you decide to change and distribute it. Oh, and a big thanks
+to the FreePascal Maintainers/Developers!
 ==============================================================================
 
 
