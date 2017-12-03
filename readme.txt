@@ -7,7 +7,7 @@
 /_____/   /______/ /______/ /_/ /_/ /______/                                 |
 |         Virtually Everything IT(tm)                         info@jegas.com |
 ==============================================================================
-                           Copyright(c)2016 Jegas, LLC
+                           Copyright(c)2017 Jegas, LLC
 ==============================================================================
 
                       Jegas Application Programming Interface
